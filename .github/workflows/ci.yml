@@ -1,3 +1,4 @@
+  // Ad Campaign REST Controller - manages campaign lifecycle
 name: Ad Campaign Platform CI
 
 on:
